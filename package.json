@@ -1,0 +1,25 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "Advent of Code challenge practice &amp; solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markpalfreeman/advent-of-code.git"
+  },
+  "author": "Mark Palfreeman <markpalfreeman@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markpalfreeman/advent-of-code/issues"
+  },
+  "homepage": "https://github.com/markpalfreeman/advent-of-code#readme",
+  "devDependencies": {
+    "@babel/core": "^7.7.4",
+    "@babel/preset-env": "^7.7.4",
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0"
+  }
+}
