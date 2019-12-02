@@ -1,2 +1,2 @@
 # advent-of-code
-Advent of Code challenge practice &amp; solutions
+[Advent of Code](http://adventofcode.com/) practice &amp; solutions
