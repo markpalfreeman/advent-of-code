@@ -8,4 +8,4 @@ export function calculateTotalFuel(masses) {
   return masses.reduce((total, mass) => (total += calculateModuleFuel(mass)), 0)
 }
 
-console.log(calculateTotalFuel(data)) // 3231195
+const result1 = calculateTotalFuel(data) // 3231195

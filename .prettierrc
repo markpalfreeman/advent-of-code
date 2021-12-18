@@ -1,3 +1,5 @@
 {
+  "arrowParens": "always",
+  "bracketSpacing": false,
   "semi": false
 }
