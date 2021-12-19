@@ -27,6 +27,5 @@ export function countIncreases(list, span = 1) {
 
 const list = parse(input)
 
-const pt1 = countIncreases(list) // 1227
-
-const pt2 = countIncreases(list, 3) // 1254
+const result1 = countIncreases(list) // 1227
+const result2 = countIncreases(list, 3) // 1254
